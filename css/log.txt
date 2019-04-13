@@ -1,0 +1,105 @@
+commit b41f773124f2559904626794a2e4ad6b7bc1c2c0
+Merge: dbb7f75 339af08
+Author: devengreys <studenti.bianchi.christian@gmail.com>
+Date:   Sat Apr 13 11:34:04 2019 +0200
+
+    Risolto confilitto merge
+
+commit dbb7f7515fd97b9087f881e272fdb117a14f3c8c
+Author: devengreys <studenti.bianchi.christian@gmail.com>
+Date:   Sat Apr 13 11:29:17 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..ffba95a
+--- /dev/null
++++ b/css/style.css
+@@ -0,0 +1 @@
++{background-color:blue;}
+\ No newline at end of file
+
+commit 339af08b4cd6ea5eca9b23ea94baa23f6c56460c
+Author: devengreys <studenti.bianchi.christian@gmail.com>
+Date:   Sat Apr 13 11:25:09 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..4f276e6
+--- /dev/null
++++ b/css/style.css
+@@ -0,0 +1 @@
++{background-color:red;}
+\ No newline at end of file
+
+commit aae54866265234c928156123f582a3fe11eab495
+Author: devengreys <studenti.bianchi.christian@gmail.com>
+Date:   Sat Apr 13 11:22:53 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/Immagine2.png b/img/Immagine2.png
+new file mode 100644
+index 0000000..b0b6d88
+Binary files /dev/null and b/img/Immagine2.png differ
+
+commit 51fe46875df3041d48cd774a81003e5263145af7
+Merge: 0baed75 f51bd9e
+Author: devengreys <studenti.bianchi.christian@gmail.com>
+Date:   Sat Apr 13 11:20:17 2019 +0200
+
+    Fusione ramo Contatti
+
+commit f51bd9efe356726e89dae873b2566d6935852e6e
+Author: devengreys <studenti.bianchi.christian@gmail.com>
+Date:   Sat Apr 13 11:14:15 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit a38eb7cb1ee35bd01fb9c16e2768882e617836c1
+Author: devengreys <studenti.bianchi.christian@gmail.com>
+Date:   Sat Apr 13 11:13:08 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/Compito/contatti.html b/Compito/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit ec1edc383551e0b0f08cba4614484f351b77486c
+Author: devengreys <studenti.bianchi.christian@gmail.com>
+Date:   Sat Apr 13 11:11:19 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/Immagine.png b/img/Immagine.png
+new file mode 100644
+index 0000000..6d4b024
+Binary files /dev/null and b/img/Immagine.png differ
+
+commit 0baed7508f2e4303d1d7f15b9d848953a415af23
+Author: devengreys <studenti.bianchi.christian@gmail.com>
+Date:   Sat Apr 13 11:09:36 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/Compito/home.html b/Compito/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit b6050e8533dee38f918350d880a29f9a3905259f
+Author: devengreys <studenti.bianchi.christian@gmail.com>
+Date:   Sat Apr 13 11:07:18 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/css.css b/css/css.css
+new file mode 100644
+index 0000000..e69de29

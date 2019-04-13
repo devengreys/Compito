@@ -1,0 +1,14 @@
+*   b41f773 (HEAD -> master) Risolto confilitto merge
+|\  
+| * 339af08 (Home) Inserito colore di sfondo rosso
+| * aae5486 Inserita immagine per la pagina Home
+| *   51fe468 Fusione ramo Contatti
+| |\  
+| | * f51bd9e (Contatti) Inserito file css per i widget
+| | * a38eb7c Creata la pagina Contatti
+| * | 0baed75 Creata Pagina Home
+| |/  
+* | dbb7f75 Inserito colore di sfondo blu
+* | ec1edc3 Inserita immagine
+|/  
+* b6050e8 Prima Commit
